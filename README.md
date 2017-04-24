@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-This is used for deploying sample application
+This is used for deploying sample application. #SoWhat #SoHum
 
 ## How to contribute
 
