@@ -13,3 +13,7 @@ This is used for deploying sample application
 ## How to contribute
 
 This is a sample application
+
+### Copyright
+
+2017 Copyright Reserved
